@@ -4,4 +4,10 @@
     "name": "博客",
     "link": "https://blog.nekoyuan.top/"
   }
+,
+  {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://status.nekoyuan.top/"
+  }
 ]
